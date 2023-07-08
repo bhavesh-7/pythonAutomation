@@ -9,6 +9,16 @@ This code is a basic project intended for educational purposes and does not prom
 
 DISCLAIMER
 
+The code provided is for educational purposes only. It does not promote or encourage any form of unauthorized downloading or use of copyrighted materials, including YouTube videos. The code is intended to showcase programming concepts and techniques and should not be used for any illegal or unauthorized activities.
+
+The author of this code is not responsible for any misuse or violation of copyright laws that may arise from the use of this code. Users are solely responsible for complying with all applicable laws, regulations, and terms of service related to downloading and using online content.
+
+Downloading or distributing copyrighted materials without proper authorization from the copyright holder may infringe upon their rights and could result in legal consequences. It is recommended to obtain proper permission or licenses from the copyright owner before using their content.
+
+The author does not endorse, support, or promote any illegal activities or infringement of intellectual property rights. The code is provided as-is, without warranty or liability.
+
+Please use this code responsibly and in compliance with all applicable laws and regulations.
+
 This code is provided "as is" without any warranty of any kind, express or implied. The author makes no warranties about the suitability, reliability, or accuracy of this code. Use this code at your own risk.
 
 LIMITATION OF LIABILITY
